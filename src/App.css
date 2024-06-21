@@ -1,0 +1,11 @@
+#root {
+  background: rgb(86 51 187);
+  padding-top: 1rem;
+  color: white;
+}
+
+
+#root h1 {
+  color: white;
+  font: normal 2rem Arial;
+}
